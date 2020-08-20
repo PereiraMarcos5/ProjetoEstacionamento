@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EstacionamentoModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="preco">
+    <Key>
+      <PropertyRef Name="id_preco" />
+    </Key>
+    <Property Name="id_preco" Type="Int32" Nullable="false" />
+    <Property Name="preco1" Type="Double" />
+  </EntityType>
+  <EntityContainer Name="EstacionamentoEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="preco" EntityType="Self.preco" />
+    <EntitySet Name="cliente" EntityType="EstacionamentoModel.cliente" />
+  </EntityContainer>
+  <EntityType Name="cliente">
+    <Key>
+      <PropertyRef Name="id_cliente" />
+    </Key>
+    <Property Name="id_cliente" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="valor_a_pagar" Type="Double" Nullable="false" />
+    <Property Name="duracao" Type="String" Nullable="false" MaxLength="25" FixedLength="true" Unicode="true" />
+    <Property Name="horario_entrada" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="horario_saida" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="placa" Type="String" Nullable="false" MaxLength="8" FixedLength="true" Unicode="true" />
+  </EntityType>
+</Schema>

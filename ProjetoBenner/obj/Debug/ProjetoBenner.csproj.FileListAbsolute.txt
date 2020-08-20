@@ -1,0 +1,17 @@
+C:\Users\Marcos\Desktop\Programa\ProjetoBenner\ProjetoBenner\bin\Debug\ProjetoBenner.exe.config
+C:\Users\Marcos\Desktop\Programa\ProjetoBenner\ProjetoBenner\bin\Debug\ProjetoBenner.exe
+C:\Users\Marcos\Desktop\Programa\ProjetoBenner\ProjetoBenner\bin\Debug\ProjetoBenner.pdb
+C:\Users\Marcos\Desktop\Programa\ProjetoBenner\ProjetoBenner\bin\Debug\EntityFramework.dll
+C:\Users\Marcos\Desktop\Programa\ProjetoBenner\ProjetoBenner\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcos\Desktop\Programa\ProjetoBenner\ProjetoBenner\bin\Debug\EntityFramework.xml
+C:\Users\Marcos\Desktop\Programa\ProjetoBenner\ProjetoBenner\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcos\Desktop\Programa\ProjetoBenner\ProjetoBenner\obj\Debug\ProjetoBenner.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Programa\ProjetoBenner\ProjetoBenner\obj\Debug\ProjetoBenner.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\Programa\ProjetoBenner\ProjetoBenner\obj\Debug\ProjetoBenner.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Programa\ProjetoBenner\ProjetoBenner\obj\Debug\ProjetoBenner.csproj.CopyComplete
+C:\Users\Marcos\Desktop\Programa\ProjetoBenner\ProjetoBenner\obj\Debug\ProjetoBenner.exe
+C:\Users\Marcos\Desktop\Programa\ProjetoBenner\ProjetoBenner\obj\Debug\ProjetoBenner.pdb
+C:\Users\Marcos\Desktop\Programa\ProjetoBenner\ProjetoBenner\obj\Debug\ProjetoBenner.HorarioEntrada.resources
+C:\Users\Marcos\Desktop\Programa\ProjetoBenner\ProjetoBenner\obj\Debug\ProjetoBenner.HorarioSaida.resources
+C:\Users\Marcos\Desktop\Programa\ProjetoBenner\ProjetoBenner\obj\Debug\ProjetoBenner.Estacionamentos.resources
+C:\Users\Marcos\Desktop\Programa\ProjetoBenner\ProjetoBenner\obj\Debug\ProjetoBenner.csprojAssemblyReference.cache

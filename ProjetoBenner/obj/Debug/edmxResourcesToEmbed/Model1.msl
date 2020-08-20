@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EstacionamentoModelStoreContainer" CdmEntityContainer="EstacionamentoEntities">
+    <EntitySetMapping Name="preco">
+      <EntityTypeMapping TypeName="EstacionamentoModel.preco">
+        <MappingFragment StoreEntitySet="preco">
+          <ScalarProperty Name="id_preco" ColumnName="id_preco" />
+          <ScalarProperty Name="preco1" ColumnName="preco" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cliente">
+      <EntityTypeMapping TypeName="EstacionamentoModel.cliente">
+        <MappingFragment StoreEntitySet="cliente">
+          <ScalarProperty Name="placa" ColumnName="placa" />
+          <ScalarProperty Name="horario_saida" ColumnName="horario_saida" />
+          <ScalarProperty Name="horario_entrada" ColumnName="horario_entrada" />
+          <ScalarProperty Name="duracao" ColumnName="duracao" />
+          <ScalarProperty Name="valor_a_pagar" ColumnName="valor_a_pagar" />
+          <ScalarProperty Name="id_cliente" ColumnName="id_cliente" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
